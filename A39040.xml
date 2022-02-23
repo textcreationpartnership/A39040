@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The execution, last speeches &amp; confessions, of the thirteen prisoners that suffered on Friday the 24th of October, 1679 Viz. Christian Woodward, burnt at a stake in Smithfield for treason, for clipping of money. And twelve hang'd at Tyburn, whose names and offences were as follow. Stephen Pushworth, --- for burglary. Tho. Hudson, ------- drawn thither on a sled for clipping. Thomas French, and John Hurst, for robberies on the highway. Edward Jarvis, James Marmaduke, Thomasin Moore, Charles Michenor, Isaac Whitacre, and Charles Pain, for breaking open houses. George Buttler, ----- for horse-stealing. Thomas Dod, -------- An old notorious offender.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39040</idno>
+            <idno type="STC">Wing E3850</idno>
+            <idno type="STC">ESTC R213518</idno>
+            <idno type="EEBO-CITATION">99825882</idno>
+            <idno type="PROQUEST">99825882</idno>
+            <idno type="VID">30273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The execution, last speeches &amp; confessions, of the thirteen prisoners that suffered on Friday the 24th of October, 1679 Viz. Christian Woodward, burnt at a stake in Smithfield for treason, for clipping of money. And twelve hang'd at Tyburn, whose names and offences were as follow. Stephen Pushworth, --- for burglary. Tho. Hudson, ------- drawn thither on a sled for clipping. Thomas French, and John Hurst, for robberies on the highway. Edward Jarvis, James Marmaduke, Thomasin Moore, Charles Michenor, Isaac Whitacre, and Charles Pain, for breaking open houses. George Buttler, ----- for horse-stealing. Thomas Dod, -------- An old notorious offender.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The words "Thomas French, .. Hurst," and "Edward Jarvis, .. Pain," are bracketed together in title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30273:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <head>THE Execution, laſt Speeches &amp; Confeſſions, OF THE Thirteen Priſoners That ſuffered on Friday the 24th of <hi>October,</hi> 1679.</head>
+            <argument>
+               <p>
+                  <hi>VIZ. Chriſtian Woodward,</hi> Burnt at a Stake in <hi>Smithfield</hi> for TREASON, for Clipping of Money. And Twelve hang'd at <hi>TYB<g ref="char:V">Ʋ</g>RN,</hi> whoſe Names and Offences were as follow.
+<list>
+                     <item>
+                        <hi>Stephen Puſhworth,</hi>—For Burglary.</item>
+                     <item>
+                        <hi>Tho. Hudſon,</hi> — Drawn thither on a Sled for Clipping.</item>
+                     <item>
+                        <hi>Thomas French,</hi> and <hi>John Hurst,</hi> For Robberies on the Highway.</item>
+                     <item>
+                        <hi>Edward Jarvis,</hi> For breaking open Houſes.</item>
+                     <item>
+                        <hi>James Marmaduke,</hi> For breaking open Houſes.</item>
+                     <item>
+                        <hi>Thomaſin Moore,</hi> For breaking open Houſes.</item>
+                     <item>
+                        <hi>Charles Michenor,</hi> For breaking open Houſes.</item>
+                     <item>
+                        <hi>Iſaac Whitacre,</hi> and <hi>Charles Pain,</hi> For breaking open Houſes.</item>
+                     <item>
+                        <hi>George Buttler,</hi> — For Horſe-ſtealing.</item>
+                     <item>
+                        <hi>Thomas Dod,</hi> — An old notorious Offender.</item>
+                  </list>
+               </p>
+            </argument>
+            <p>THE laſt Seſſions was very remarkable for the great num<g ref="char:EOLhyphen"/>ber of Criminals that there received Sentence of Death, there being no fewer than Two and thirty in all that were there condemn'd (though by a Miſtake in the printed Narrative, it was ſaid but Thirty one:) But as all penal Laws
+<pb n="2" facs="tcp:30273:2"/>
+               <!-- PDF PAGE 38 -->are deſigned not for Cruelty, but amendment of Manners, <hi>ut Poena ad paucos Terror ad omnes perveniat,</hi> that by due Puniſhments inflicted on a few, all being terrified, may deſiſt from ill Practices, ſo here his moſt gracious Majeſties indulgent Mercy was pleaſed to extend it ſelf to ſeveral of theſe wretched Malefactors, from whom there might be any hopes of future Reformation.</p>
+            <p>The poor Creature tryed for killing of her Baſtard-childe, in conſideration of all Circumſtances, and that ſhe was con<g ref="char:EOLhyphen"/>victed onely upon the ſeverity of the Statute, obtained a Re<g ref="char:EOLhyphen"/>prieve. So likewiſe did the two men and one woman about killing the Bayliff in <hi>Dutchy-lane;</hi> and the two women and one man touching the death of the Bayliff at <hi>Weſtminſter;</hi> and ſeveral others. As to the reſt, we ſhall give you here ſome ac<g ref="char:EOLhyphen"/>count of their Behaviour after Sentence, and at the place of Execution.</p>
+            <p>Mr. Ordinary, according to his uſual care, and the grand im<g ref="char:EOLhyphen"/>portance of his place, was not wanting to improve the ſhort time the Priſoners had allowed them in this world, for their ſpi<g ref="char:EOLhyphen"/>ritual advantage of their Souls. He preacht very elaborately, and ſearchingly to their Conſciences, on the Lords day, and was frequently with them in Prayer; and according to his prudent method, fail'd not to examine each of them apart con<g ref="char:EOLhyphen"/>cerning their hopes of a future happy State, and on what ſolid grounds the ſame were bottom'd. He found them generally lamentably ignorant of the Principles of Religion, as if they had been born in <hi>Africk,</hi> and bred up amongſt the Savages of <hi>America,</hi> rather than in <hi>England,</hi> that <hi>Goſhen</hi> of <hi>Goſpel-Light.</hi> But he endeavoured with his utmoſt pains, both to inform their <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandings</hi> of the myſteries of Salvation, and perſwade their ſtubborn <hi>Wills</hi> to ſubmit to the Yoak of Chriſt, and accept of him upon his own Evangelical Terms.</p>
+            <p>As for <hi>Thomas French,</hi> he was a Perſon that had good Friends; and undoubtedly was Maſter of a great ſtock of Cou<g ref="char:EOLhyphen"/>rage, had he employed it honourably in the ſervice of his Prince, or in lawful Caſes. When he found the Mediation of his friends Ineffectual, the greatneſs of his Spirit and emotions of his Minde, ſtruck him into a violent Feaver, ſo that he was forc'd to keep his Bed, and was not able to attend the publique Exerciſes of Devotion; yet the Ordinary charitably viſited him and gave him all the aſſiſtance he could. As he confeſſed the Indictments at the Bar, ſo he now acknowledged, That he had long followed the miſchievous practice of Padding on the Road; That he was drawn into it by ill Company, and a looſe diſſolute Life.</p>
+            <p>
+               <hi>John Hurſt,</hi> the other Highway-man, had formerly been con<g ref="char:EOLhyphen"/>demned at <hi>Alisbury</hi> in the County of <hi>Bucks,</hi> but now was fallen
+<pb n="3" facs="tcp:30273:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 38 -->into his old wicked Courſes again. He ſeem'd not to be much regardful of his Condition, but firſt fed himſelf with hopes of Reprieve, and at laſt ſeem'd too much indifferent concerning his future State.</p>
+            <p>
+               <hi>Edward Jarvis</hi> was convicted upon two Indictments; and beſides, had been formerly concerned in Felonious attempts and received Fovour.</p>
+            <p>
+               <hi>John Martin</hi> and <hi>Tho. Dod,</hi> ſeemed to outward appearance, the moſt penitent of all the company. They much bewail'd their former Ill-ſpent time, and were very frequently and fervent<g ref="char:EOLhyphen"/>ly in Prayer for pardon and forgiveneſs for all their Sins, which they freely acknowledged to be moſt horrid in quality, and Innumerable in number.</p>
+            <p>
+               <hi>George Butler</hi> was now convicted for ſtealing of an Horſe; but he had been burnt in the hand before, and not long ſince broke Priſon at <hi>Chelmsford</hi> in <hi>Eſſex;</hi> and ſo could expect no further mercy.</p>
+            <p>
+               <hi>Charles Michener</hi> and <hi>Iſaac Whitacre,</hi> were Partners in Iniqui<g ref="char:EOLhyphen"/>ty, and had broken up a Gentlewomans houſe at <hi>Baſingstoke</hi> in <hi>Hampſhire,</hi> and took thence a great quantity of Plate and Mo<g ref="char:EOLhyphen"/>ney; of which, the latter they had ſpent, the former was found with them when they were apprehended on another occaſion by an honeſt <hi>Thief-taker</hi> at <hi>Wapping;</hi> who ſeeing ſo much old-fa<g ref="char:EOLhyphen"/>ſhion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Plate in their cuſtody, concluded they had robb'd ſome Church; but preſſing them with much importunity, he prevailed with them to confeſs where they had it, and ſent the Owner no<g ref="char:EOLhyphen"/>tice in a Letter; who now came up and convicted them. They were old hardened Thieves, and behaved themſelves very au<g ref="char:EOLhyphen"/>daciouſly.</p>
+            <p>It was a very ſad thing to hear, the night before they ſuffered, when the Bell-man, according to cuſtom, came to give them no<g ref="char:EOLhyphen"/>tice that they were to die the next morning, what diſmal Cries and Lamentations they made; yet 'tis fear'd, for the moſt part, not ſo much out of any due ſenſe of their ſins, as of the juſt pu<g ref="char:EOLhyphen"/>niſhment that was approaching. Though three or four of them appeared more ſerious, and with abundance of Tears acknow<g ref="char:EOLhyphen"/>ledged the guilt of their former wicked lives, begging heartily Forgiveneſs of God, and all thoſe that they had injured by their villainous and pernicious Practices.</p>
+            <p>'Tis ſtrange and moſt ſad, to conſider the corrupt nature of Man, how prone, nay fixt to all kind of Evil, that no Exhorta<g ref="char:EOLhyphen"/>tion, no Examples, though ſo numerous here almoſt every month of their fellow-Criminals, can reclaim them. The true reaſon no doubt is expreſſed by the Pſalmiſt, <hi>God is not in all their thoughts,</hi> Fear and Shame are the two great Bridles of humane Nature: But theſe. Reſtraints they had long ſince ſhook off,
+<pb n="4" facs="tcp:30273:3"/>
+               <!-- PDF PAGE 39 -->and by a ſetled Habit of Debauchery, ſtifled all the Alarms of Conſcience, and quench'd the ſtriving motions of Grace and the Holy Spirit; ſo that they were grown to that Diabolical ſtate, to commit all Wickedneſs with greedineſs, and without any Re<g ref="char:EOLhyphen"/>morſe: Never awaken'd with any apprehenſions of Religion, or regard to the everlaſting Condition of their precious Souls, till the dreadful Sentence of Death ſummon'd them to give a ſudden amazing Account, for which they were no way pre<g ref="char:EOLhyphen"/>pared; but in a ſtupid Horrour, fill'd with Terrour and Con<g ref="char:EOLhyphen"/>fuſion, were hurried out of the World. A moſt deplorable Caution to all ſuch deſperate Sinners, to turn from the Evil of their ways, whilſt there is yet a door of Hope left open, that they may not be ſurprized with the like Conſternations, when nothing remains before their eyes, but a certain untimely Death in this world, and inevitable Deſtruction in the next.</p>
+            <p>The common Malefactors were executed at the uſual place and time, firſt Seven and then Five; and not all at once, as heretofore.</p>
+            <p>But <hi>Chriſtian Woodward</hi> (condemned to be burned at a Stake in <hi>Smithfield</hi>) was not Executed till the afternoon; ſhe having had all the time given her that poſſibly could be granted, to make her applications for a Reprieve. But no Reprieve could be obtained; the Crime being ſo notorious, and the practiſe of it grown ſo frequent.</p>
+            <p>John Martin, <hi>before mentioned, obtained a Reprieve juſt upon going to Execution.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
